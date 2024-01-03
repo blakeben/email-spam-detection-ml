@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a machine learning model to classify emails into 'spam' or 'non-spam' categories. Utilizing Python and Natural Language Processing (NLP) techniques, the model analyzes the content of emails to detect spam. This repository contains the full code and datasets used in the project.
+This project implements a machine learning model to classify emails into 'spam' or 'non-spam' categories. Utilizing Python and NLP techniques, the model analyzes the content of emails to detect spam. This repo contains the full code and datasets used in the project.
 
 ## Technologies Used
 
@@ -43,7 +43,7 @@ python email_spam_detector.py
 
 ## Dataset
 
-The dataset used in this project contains various email texts labeled as 'spam' or 'non-spam'. Due to privacy concerns, the dataset is not included in this repository.
+The dataset used in this project contains various email texts labeled as 'spam' or 'non-spam'.
 
 ## Author
 
