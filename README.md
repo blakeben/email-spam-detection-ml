@@ -17,7 +17,7 @@ This project implements a machine learning model to classify emails into 'spam' 
 First, clone this repository to your local machine using:
 
 ```
-git clone https://github.com/blakeben/email-spam-detection-ml
+git clone https://github.com/blakeben/email-spam-detection-ml.git
 ```
 
 After cloning, install the required packages using:
